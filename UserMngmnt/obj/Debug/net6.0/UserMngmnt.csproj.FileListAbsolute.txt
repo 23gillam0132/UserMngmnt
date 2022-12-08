@@ -1,0 +1,15 @@
+C:\Users\23gillam0132\source\repos\UserMngmnt\UserMngmnt\bin\Debug\net6.0\UserMngmnt.exe
+C:\Users\23gillam0132\source\repos\UserMngmnt\UserMngmnt\bin\Debug\net6.0\UserMngmnt.deps.json
+C:\Users\23gillam0132\source\repos\UserMngmnt\UserMngmnt\bin\Debug\net6.0\UserMngmnt.runtimeconfig.json
+C:\Users\23gillam0132\source\repos\UserMngmnt\UserMngmnt\bin\Debug\net6.0\UserMngmnt.dll
+C:\Users\23gillam0132\source\repos\UserMngmnt\UserMngmnt\bin\Debug\net6.0\UserMngmnt.pdb
+C:\Users\23gillam0132\source\repos\UserMngmnt\UserMngmnt\obj\Debug\net6.0\UserMngmnt.csproj.AssemblyReference.cache
+C:\Users\23gillam0132\source\repos\UserMngmnt\UserMngmnt\obj\Debug\net6.0\UserMngmnt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23gillam0132\source\repos\UserMngmnt\UserMngmnt\obj\Debug\net6.0\UserMngmnt.AssemblyInfoInputs.cache
+C:\Users\23gillam0132\source\repos\UserMngmnt\UserMngmnt\obj\Debug\net6.0\UserMngmnt.AssemblyInfo.cs
+C:\Users\23gillam0132\source\repos\UserMngmnt\UserMngmnt\obj\Debug\net6.0\UserMngmnt.csproj.CoreCompileInputs.cache
+C:\Users\23gillam0132\source\repos\UserMngmnt\UserMngmnt\obj\Debug\net6.0\UserMngmnt.dll
+C:\Users\23gillam0132\source\repos\UserMngmnt\UserMngmnt\obj\Debug\net6.0\refint\UserMngmnt.dll
+C:\Users\23gillam0132\source\repos\UserMngmnt\UserMngmnt\obj\Debug\net6.0\UserMngmnt.pdb
+C:\Users\23gillam0132\source\repos\UserMngmnt\UserMngmnt\obj\Debug\net6.0\UserMngmnt.genruntimeconfig.cache
+C:\Users\23gillam0132\source\repos\UserMngmnt\UserMngmnt\obj\Debug\net6.0\ref\UserMngmnt.dll
