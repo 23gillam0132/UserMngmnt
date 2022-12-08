@@ -5,7 +5,7 @@ Home();
 void Home()
 {
     Console.Clear();
-    Console.WriteLine("Welcome.");
+    Console.WriteLine("Welcome!");
     Console.WriteLine("1. Create user.");
     Console.WriteLine("2. Login.");
     Console.WriteLine("3. View Users.");
